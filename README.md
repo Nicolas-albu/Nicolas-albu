@@ -1,9 +1,7 @@
-## Helloo, Eu sou o Nícolas Albuquerque
+## Hello, Eu sou o Nícolas Albuquerque
 
 <div>
-  <a href="https://github.com/Nicolas-albu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-albu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
 </div>
   
 <div style="display: inline_block"><br>

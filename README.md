@@ -1,8 +1,8 @@
-## Oi! Me chamo Nícolas 👋🏼👨🏼‍💻
-
 <img src="banner.png" alt="banner">
 
-Sou um Desenvolvedor Backend 🐱‍👤 apaixonado por resolver problemas, criar soluções inovadoras e por tornar a contribuição para o código aberto mais acessível 🚀, criando tecnologia para elevar as pessoas! Algumas tecnologias com as quais gosto de trabalhar incluem Django 🐍, Flask, FastAPI, Express e Spring Framework ☕ de Frameworks, e com Oracle Database, PostgreSQL 🐘, MySQL e Redis. 
+## **Oi! Me chamo Nícolas** 👋🏼👨🏼‍💻
+
+Sou um Desenvolvedor Backend 🐱‍👤 apaixonado por resolver problemas, criar soluções inovadoras e por tornar a contribuição para o código aberto mais acessível 🚀, criando tecnologia para elevar as pessoas! Algumas tecnologias com as quais gosto de trabalhar incluem Django 🐍, Flask :hot_pepper:, FastAPI :zap:, Express e Spring Framework ☕ de Frameworks, e com Oracle Database, PostgreSQL 🐘, MySQL e Redis.
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nicolasalbuquerque581)

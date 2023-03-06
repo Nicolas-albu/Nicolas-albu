@@ -98,5 +98,5 @@ if __name__ == '__main__':
   ##
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset= />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nicolas-albu/Nicolas-albu/blob/output/github-contribution-grid-snake.svg" />
 </picture>

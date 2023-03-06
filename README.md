@@ -96,8 +96,7 @@ if __name__ == '__main__':
 </div>
 
   ##
-  
-<div align="center" alt="snake animation">
 
-  ![Snake animation](https://github.com/Nicolas-albu/Nicolas-albu/blob/output/github-contribution-grid-snake.gif)
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nicolas-albu/Nicolas-albu/blob/output/github-contribution-grid-snake.gif" />
+</picture>

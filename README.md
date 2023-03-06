@@ -4,6 +4,8 @@
 
 Sou um Desenvolvedor Backend 🐱‍👤 apaixonado por resolver problemas, criar soluções inovadoras e por tornar a contribuição para o código aberto mais acessível 🚀, criando tecnologia para elevar as pessoas! Algumas tecnologias com as quais gosto de trabalhar incluem Django 🐍, Flask :hot_pepper:, FastAPI :zap:, Express e Spring Framework ☕ de Frameworks, e com Oracle Database, PostgreSQL 🐘, MySQL e Redis.
 
+##
+
 <div align="center" alt="contacts">
   <a href="https://instagram.com/nicolas.albu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-albu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -14,8 +16,9 @@ Sou um Desenvolvedor Backend 🐱‍👤 apaixonado por resolver problemas, cria
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nicolasalbuquerque581)
 </div>
 
+##
 
-### **Code of the Programmer**
+### **Código do Programador**
 
 ```python
 from abc import ABC, abstractmethod

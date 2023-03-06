@@ -20,7 +20,7 @@ Sou um **Desenvolvedor Backend** 👨🏼‍💻 apaixonado por resolver problem
 
 ##
 
-### **Código do Programador**
+### :computer: **Código do Programador**
 
 ```python
 from abc import ABC, abstractmethod
@@ -76,7 +76,7 @@ if __name__ == '__main__':
 
 ##
 
-### **My Technologies**
+### **Tecnologias**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

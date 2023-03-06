@@ -4,9 +4,7 @@
 
 Sou um Desenvolvedor Backend 🐱‍👤 apaixonado por resolver problemas, criar soluções inovadoras e por tornar a contribuição para o código aberto mais acessível 🚀, criando tecnologia para elevar as pessoas! Algumas tecnologias com as quais gosto de trabalhar incluem Django 🐍, Flask :hot_pepper:, FastAPI :zap:, Express e Spring Framework ☕ de Frameworks, e com Oracle Database, PostgreSQL 🐘, MySQL e Redis.
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nicolasalbuquerque581)
-</div>
+<img align="left" alt="code of programmer" src="code.png">
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-albu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

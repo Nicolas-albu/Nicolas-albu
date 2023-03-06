@@ -10,8 +10,6 @@ Sou um Desenvolvedor Backend 🐱‍👤 apaixonado por resolver problemas, cria
   <a href="mailto:codeprograma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nicolasalbuquerque581)
 </div>
@@ -92,6 +90,6 @@ if __name__ == '__main__':
 
   ##
   
-<div align="center" alt="snake animation">  
+<div align="center">  
   ![Snake animation](https://github.com/Nicolas-albu/Nicolas-albu/blob/output/github-contribution-grid-snake.svg)
 </div>

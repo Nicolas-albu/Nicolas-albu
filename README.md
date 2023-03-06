@@ -4,13 +4,16 @@
 
 Sou um Desenvolvedor Backend 🐱‍👤 apaixonado por resolver problemas, criar soluções inovadoras e por tornar a contribuição para o código aberto mais acessível 🚀, criando tecnologia para elevar as pessoas! Algumas tecnologias com as quais gosto de trabalhar incluem Django 🐍, Flask :hot_pepper:, FastAPI :zap:, Express e Spring Framework ☕ de Frameworks, e com Oracle Database, PostgreSQL 🐘, MySQL e Redis.
 
-&nbsp;<div align="right">
+##
+
+<a href="https://instagram.com/nicolas.albu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolas-albu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:codeprograma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+&nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nicolasalbuquerque581)
 </div>
 
-<div align="right">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-albu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### **Code of the Programmer**
 

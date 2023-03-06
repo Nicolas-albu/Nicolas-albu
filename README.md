@@ -4,7 +4,7 @@
 
 Sou um **Desenvolvedor Backend** 👨🏼‍💻 apaixonado por resolver problemas, criar soluções inovadoras e por tornar a contribuição para o código aberto mais acessível :rocket:, criando tecnologia para elevar as pessoas! Algumas tecnologias com as quais gosto de trabalhar incluem **Django**:snake:, **Flask**:hot_pepper:, **FastAPI**:zap:, **Express** e **Spring Framework**:coffee: de Frameworks, e com **Oracle Database**, **PostgreSQL**:elephant:, **MySQL**:whale: e **Redis**.
 
-:pushpin: Explore meu **portfólio** de projetos em Python, onde utilizei os frameworks **Django**:snake:, **FastAPI**:zap: e **Flask**:hot_pepper: para desenvolver soluções web robustas e escaláveis!:rocket: Conheça as aplicações que construí e como elas podem agregar **valor ao seu negócio**:money_with_wings:. Acesse agora e descubra como posso ajudá-lo a transformar suas ideias em realidade:bulb:.
+:pushpin: Explore meu **portfólio** de projetos em **Python**, onde utilizei os frameworks **Django**:snake:, **FastAPI**:zap: e **Flask**:hot_pepper: para desenvolver soluções web robustas e escaláveis!:rocket: Conheça as aplicações que construí e como elas podem agregar **valor ao seu negócio**:money_with_wings:. Acesse agora e **descubra como posso ajudá-lo a transformar suas ideias:bulb: em realidade:dart:**.
 
 ##
 

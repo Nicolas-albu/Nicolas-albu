@@ -38,9 +38,9 @@ class Programmer(Human):
         return "breaking the head"
         
     def start(self):
-      while super().is_life():
+      while super().alive():
         super().eat()
-        self.coding()
+        self.code()
         super().sleep()
 
 if __name__ == "__main__":

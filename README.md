@@ -9,6 +9,7 @@ Sou um **Desenvolvedor Backend** :man_technologist: apaixonado por resolver prob
 <div align="center" alt="contacts">
   <a href="https://instagram.com/nicolas.albu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-albu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://nicolas-albu.medium.com" target="_blank"><img src="https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" target="_blank"></a>
   <a href="mailto:codeprograma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
